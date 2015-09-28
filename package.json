@@ -15,5 +15,9 @@
     "rootDir": {
         "app": "./app/",
         "www": "./www/"
+    },
+    "packDir": {
+        "app": "app/",
+        "www": "www/"
     }
 }
