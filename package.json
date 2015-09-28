@@ -1,0 +1,19 @@
+{
+    "name" : "jenkins_grunt",
+    "version" : "1.0.0",
+    "devDependencies" : {
+        "cca": "latest",
+        "grunt" : "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-cordovacli": "latest"
+    },
+    "projectDir": {
+        "app": "./app/*",
+        "www": "./www/*"
+    },
+    "rootDir": {
+        "app": "./app/",
+        "www": "./www/"
+    }
+}
