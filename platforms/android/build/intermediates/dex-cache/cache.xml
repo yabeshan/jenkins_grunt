@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shared/Jenkins/Home/workspace/NB_grunt/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="9c9ee348f16cb190cbe8cf3db4c9c9bdd7caa8c7">
+        <dex dex="/Users/Shared/Jenkins/Home/workspace/NB_grunt/platforms/android/build/intermediates/pre-dexed/debug/classes-21ad6450f8c1b614aef4f87e0611e913ea402867.jar" />
+    </item>
+
+</items>

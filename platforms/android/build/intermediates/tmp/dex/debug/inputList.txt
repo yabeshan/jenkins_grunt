@@ -1,0 +1,2 @@
+/Users/Shared/Jenkins/Home/workspace/NB_grunt/platforms/android/build/intermediates/classes/debug
+/Users/Shared/Jenkins/Home/workspace/NB_grunt/platforms/android/build/intermediates/pre-dexed/debug/classes-21ad6450f8c1b614aef4f87e0611e913ea402867.jar
