@@ -4,7 +4,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-contrib-copy');
 
-    grunt.registerTask('clean',
+    grunt.registerTask('cleaner',
         [
             'clean:www'
         ]);

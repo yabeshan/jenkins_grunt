@@ -17,8 +17,7 @@
         "grunt-cordovacli": "^0.8.2"
     },
     "projectDir": {
-        "app": "./app/*",
-        "www": "./www/*"
+        "www": "www/*"
     },
     "rootDir": {
         "app": "./app/",
