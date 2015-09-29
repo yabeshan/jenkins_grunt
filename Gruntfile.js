@@ -11,7 +11,8 @@ module.exports = function (grunt) {
 
     grunt.registerTask('jenkins',
         [
-            'clean:www'
+            'clean:www',
+            'copy:www'
         ]);
 
     grunt.initConfig({
